@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907155541_mmjlddvbdedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907155541_mmjlddvbdedd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\doctorappointment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\doctorappointment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907150307_mmjlddvbde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907150307_mmjlddvbde.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907112647_ddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907112647_ddd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907145925_mmjlddvbdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907145925_mmjlddvbdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907135728_mmjlddvbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907135728_mmjlddvbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907125106_mmjl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907125106_mmjl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907133506_mmjlddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907133506_mmjlddv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907132146_mmjldd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907132146_mmjldd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907131801_mmjld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907131801_mmjld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907120733_hh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907120733_hh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907112522_dd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907112522_dd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|c:\\users\\ihaddad\\desktop\\doctorappointment\\doctorappointment\\data\\migrations\\20250907110854_ff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7220738-E5B4-4698-8204-61E6AD962014}|DoctorAppointment\\DoctorAppointment.csproj|solutionrelative:doctorappointment\\data\\migrations\\20250907110854_ff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250907155541_mmjlddvbdedd.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907155541_mmjlddvbdedd.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907155541_mmjlddvbdedd.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907155541_mmjlddvbdedd.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907155541_mmjlddvbdedd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:55:42.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250907150307_mmjlddvbde.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907150307_mmjlddvbde.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907150307_mmjlddvbde.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907150307_mmjlddvbde.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907150307_mmjlddvbde.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T15:03:07.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250907112647_ddd.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907112647_ddd.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907112647_ddd.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907112647_ddd.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907112647_ddd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:26:47.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:07:06.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Models\\Appointment.cs",
+              "RelativeToolTip": "DoctorAppointment\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:15:48.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Views\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Appointments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Views\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Appointments\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T12:53:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Models\\Patient.cs",
+              "RelativeToolTip": "DoctorAppointment\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:14:15.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Models\\Doctor.cs",
+              "RelativeToolTip": "DoctorAppointment\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:12:36.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Views\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Appointments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Views\\Appointments\\Index.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Appointments\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T12:52:32.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\appsettings.json",
+              "RelativeDocumentMoniker": "DoctorAppointment\\appsettings.json",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\appsettings.json",
+              "RelativeToolTip": "DoctorAppointment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T11:06:06.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:50:57.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwGUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:42:57.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Views\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Doctors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Views\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Doctors\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T15:01:22.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250907145925_mmjlddvbdv.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907145925_mmjlddvbdv.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907145925_mmjlddvbdv.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907145925_mmjlddvbdv.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907145925_mmjlddvbdv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:59:25.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "DoctorAppointment\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:45:19.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DoctorAppointment.csproj",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.csproj",
+              "RelativeDocumentMoniker": "DoctorAppointment\\DoctorAppointment.csproj",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\DoctorAppointment.csproj",
+              "RelativeToolTip": "DoctorAppointment\\DoctorAppointment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-07T11:34:32.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DoctorAppointment\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DoctorAppointment\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-07T11:35:43.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250907135728_mmjlddvbd.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907135728_mmjlddvbd.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907135728_mmjlddvbd.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907135728_mmjlddvbd.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907135728_mmjlddvbd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:57:29.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250907125106_mmjl.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907125106_mmjl.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907125106_mmjl.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907125106_mmjl.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907125106_mmjl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:51:06.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250907133506_mmjlddv.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907133506_mmjlddv.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907133506_mmjlddv.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907133506_mmjlddv.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907133506_mmjlddv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:35:06.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250907132146_mmjldd.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907132146_mmjldd.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907132146_mmjldd.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907132146_mmjldd.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907132146_mmjldd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:21:46.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250907131801_mmjld.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907131801_mmjld.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907131801_mmjld.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907131801_mmjld.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907131801_mmjld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:18:01.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250907120733_hh.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907120733_hh.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907120733_hh.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907120733_hh.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907120733_hh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:07:33.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DoctorAppointment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCQAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T11:43:46.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250907112522_dd.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907112522_dd.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907112522_dd.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907112522_dd.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907112522_dd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:25:22.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250907110854_ff.cs",
+              "DocumentMoniker": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907110854_ff.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment\\Data\\Migrations\\20250907110854_ff.cs",
+              "ToolTip": "C:\\Users\\ihaddad\\Desktop\\DoctorAppointment\\DoctorAppointment\\Data\\Migrations\\20250907110854_ff.cs",
+              "RelativeToolTip": "DoctorAppointment\\Data\\Migrations\\20250907110854_ff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:08:54.968Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
