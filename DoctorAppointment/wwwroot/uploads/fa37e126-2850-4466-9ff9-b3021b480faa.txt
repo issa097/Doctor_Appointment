@@ -1,0 +1,17 @@
+Server=INVEST-IT150\SQLEXPRESS;Database=haddad;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True
+
+
+ConnectionStrings": {
+    "DefaultConnection": "INVEST-IT150\SQLEXPRESS;Database=haddad;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
+  }
+
+
+
+
+
+
+Scaffold-DbContext "Server=INVEST-IT150\SQLEXPRESS;Database=identity;Trusted_Connection=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models 
+
+
+
+64N9C-HMDC5;QCJQN-QXKNQ;WGG7D-CHVWF;59HWY-GT3KV;H7H4V-R27JQ;PQ986-TN8BQ;C4HM7-6RDRK;BMRMR-QB4CG;3NMY6-97T24;6YQ5Y-VHR93
