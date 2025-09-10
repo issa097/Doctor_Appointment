@@ -60,47 +60,45 @@ namespace DoctorAppointment.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Phone,Spec,LicenseFile")] Doctor doctor,IFormFile LicenseFile1)
+        public async Task<IActionResult> Create(Doctor doctors, IFormFile LicenseFile1)
         {
-
             if (LicenseFile1 != null && LicenseFile1.Length > 0)
             {
-                var ext = Path.GetExtension(LicenseFile1.FileName).ToLower();
-                var size = LicenseFile1.Length;
-                //if (ext != ".pdf" || ext != ".docx" || ext != ".jpg")
+                var extension = Path.GetExtension(LicenseFile1.FileName).ToLower();
+                //if (extension != ".pdf")
                 //{
-
-                //}
-                //if (size <= 5242880)
-                //{
-
-                //}
-                var fullpath = Path.Combine(_environment.WebRootPath, "Uploads");
-                //if (!Directory.Exists(fullpath))
-                //{
-                //    Directory.CreateDirectory(fullpath);
+                //    ModelState.AddModelError("LicenseFile", "فقط ملفات PDF مسموحة.");
+                //    return View(doctors);
                 //}
 
-                var uniqueFileName = Guid.NewGuid().ToString() + ext;
-                var filePath = Path.Combine(fullpath, uniqueFileName);
+                //if (LicenseFile1.Length > 5 * 1024 * 1024)
+                //{
+                //    ModelState.AddModelError("LicenseFile", "الملف أكبر من 5MB.");
+                //    return View(doctors);
+                //}
+                var uploadsFolder = Path.Combine(_environment.WebRootPath, "uploads");
+                Directory.CreateDirectory(uploadsFolder);
+
+                var fileName = Guid.NewGuid().ToString() + extension;
+                var filePath = Path.Combine(uploadsFolder, fileName);
 
                 using (var stream = new FileStream(filePath, FileMode.Create))
                 {
                     await LicenseFile1.CopyToAsync(stream);
                 }
-
-                // خزّن فقط اسم الملف أو المسار النسبي في DB
-                doctor.LicenseFile = uniqueFileName;
                 ModelState.Remove("LicenseFile");
+                doctors.LicenseFile = "/uploads/" + fileName;
             }
-        
-            //if (ModelState.IsValid)
-            //{
-            //    _context.Add(doctor);
-            //    await _context.SaveChangesAsync();
-            //    return RedirectToAction(nameof(Index));
-            //}
-            return View(doctor);
+
+            if (ModelState.IsValid)
+            {
+
+
+                _context.Add(doctors);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(doctors);
         }
 
         // GET: Doctors/Edit/5
